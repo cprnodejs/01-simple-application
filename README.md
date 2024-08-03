@@ -34,3 +34,11 @@ Create a file named `index.js` and add the following code to print "Hello World!
 // index.js
 console.log('Hello World!');
 ```
+
+### 4. Run the Application
+
+Run your application using the following command:
+
+```bash
+node index.js
+```
