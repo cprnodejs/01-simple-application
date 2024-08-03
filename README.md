@@ -25,3 +25,12 @@ Create a `package.json` file to manage your project's dependencies and configura
 ```bash
 npm init -y
 ```
+
+### 3. Create a JavaScript File
+
+Create a file named `index.js` and add the following code to print "Hello World!" to the console:
+
+```javascript
+// index.js
+console.log('Hello World!');
+```
