@@ -17,3 +17,11 @@ In your terminal, create a new project folder and navigate into it:
 mkdir hello-world
 cd hello-world
 ```
+
+### 2. Initialize the Project
+
+Create a `package.json` file to manage your project's dependencies and configurations by running:
+
+```bash
+npm init -y
+```
